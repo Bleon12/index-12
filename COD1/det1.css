@@ -1,0 +1,12 @@
+.pr1{
+    width: 200px;
+    height: 80px;
+    background-color: blueviolet;
+    border: 5px solid blue; 
+    border-left: 10px solid black;
+    border-bottom: 8px solid red;
+    border-top: 12px solid orange;
+    border-right: 15px double pink;
+    padding: 40px 20px 15px 40px ;
+    margin-top: 50px;
+}

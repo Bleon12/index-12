@@ -1,0 +1,33 @@
+.gr1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: solid 3px ;
+    border-color: red;
+    margin-left: 700px;
+}
+.tit1{
+text-align: center;
+}
+.gr2{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: solid 3px ;
+    border-color: red;
+    margin-left: 200px;
+}
+.tit2{
+    text-align: center;
+}
+.gr3{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: solid 3px ;
+    border-color: red;
+    margin-left: 700px;
+}
+.tit3{
+    text-align: center;
+}
